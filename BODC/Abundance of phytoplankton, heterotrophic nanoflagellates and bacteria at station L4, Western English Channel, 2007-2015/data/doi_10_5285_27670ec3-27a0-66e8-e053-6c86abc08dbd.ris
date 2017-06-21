@@ -1,0 +1,30 @@
+TY  - DATA
+AU  - Tarran, Glen
+TI  - Abundance of phytoplankton, heterotrophic nanoflagellates and bacteria through the water column at time series station L4 in the Western English Channel, 2007-2015.
+PY  - 2016
+DA  - 2016/12/12/14:18
+AB  - This dataset contains depth profiles of the mean abundance of groups of plankton as 
+cells per millilitre, measured using flow cytometry from the long-term sampling station, L4 (50 15.0' N; 4 13.0' W) 
+situated off the south-west coast of England, United Kingdom. The data were collected between 23rd April 2007 and 15th 
+December 2015. The groups quantified are divided into phytoplankton and heterotrophs. Phytoplankton groups quantified 
+are: Synechococcus sp. (cyanobacteria)(Syn), picoeuakryotes (smaller than 2 um) (Peuk), cryptophytes (Crypto), 
+coccolithophores (Cocco), small dinoflagellates (<20 um) (Dino), <em>Phaeocystis</em> sp. (Pcystis) and nanoeukaryotes 
+(Neuk) not already mentioned (2-20 um). Heterotrophs quantified are: heterotrophic nanoflagellates (HNAN), bacteria 
+with relatively high nucleic acid content (HNA) and bacteria with relatively low DNA (LNA). Samples were collected 
+and analysed in duplicate (HNAN and some  heterotrophic bacteria) or triplicate (phytoplankton and some heterotrophic 
+bacteria) from 2 m, 10 m, 25 m and 50 m depth. In 2007 the Secchi depth was sampled. This was standardised to 10 m in 
+subsequent years to coincide with plankton community composition analysis by microscopy. From 2013, 'Pnitz' data 
+were recorded; possibly the chain-forming diatom <em>Pseudo-nitzschia delicatissima</em>. It was also present from 
+2011 when sample analysis moved from the BD FACSort to the BD Accuri C6 flow cytometer at PML (data still to be supplied). 
+Discrimination was due to better measurement of forward light scatter with the BD Accuri C6.
+KW  - English Channel
+KW  - Bacteria generic abundance in water bodies
+KW  - Bacteria taxonomic abundance in water bodies
+KW  - Microzooplankton generic abundance in water bodies
+KW  - Phytoplankton generic abundance in water bodies
+KW  - Phytoplankton taxonomic abundance in water bodies
+KW  - Plankton abundance per unit volume of the water column
+DO  - doi:10.5285/27670ec3-27a0-66e8-e053-6c86abc08dbd
+PB  - British Oceanographic Data Centre, Natural Environment Research Council
+LA  - en
+ER  - 
